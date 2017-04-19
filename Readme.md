@@ -1,1 +1,1 @@
-Place to submit internship program code for review
+Place to submit internship program code for review.
